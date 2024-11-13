@@ -9,11 +9,11 @@ Welcome to **Surprise Prank Site** – a cleverly disguised prank that resembles
 The **Surprise Prank Site** project includes two unique prank experiences that look like genuine movie websites. Each link features a special surprise when users click on the "Home" button:
 
 ### 🔗 Normal Prank Link
-- **Link**: [Normal Prank Page](https://sujon0x1.github.io/newflix/)
+- **Link**: [Normal Prank Page](https://sujon0xff.github.io/newflix/)
 - **Description**: Styled like a movie site, this page is perfect for catching people off guard! Once a visitor clicks on the "Home" button, a full-screen scary video with loud sound effects appears to deliver a classic jump scare. 👻🎬
 
 ### 🔗 18+ Prank Link
-- **Link**: [18+ Prank Page](https://sujon0x1.github.io/newflix/adult.html)
+- **Link**: [18+ Prank Page](https://sujon0xff.github.io/newflix/adult.html)
 - **Description**: Similar to the Normal Prank Page, this link includes a slightly different design with an adult-themed twist. When users click "Home," a prank video with a humorous meme and 18+ sound effects surprises them at full volume. 😂🔞
 
 > **⚠️ Important Note**: This project is meant for entertainment only. Be respectful when sharing with others, as it includes loud sound effects and surprising visuals.
